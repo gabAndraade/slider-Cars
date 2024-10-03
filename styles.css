@@ -37,7 +37,7 @@ header nav ul {
 
 section {
     background-image:
-    linear-gradient(rgba(49, 49, 49, 0.9), rgba(0, 0, 0, 0.9)),url(img/pexels-kassiamelox-18392123.jpg);
+    linear-gradient(rgba(49, 49, 49, 0.9), rgba(0, 0, 0, 0.9)),url(img/pexels-rafael-augusto-barbosa-da-silva-100709281-20876124.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -259,6 +259,23 @@ section .list .item.active .content .information {
     z-index: 0;
     opacity: 1;
     transition: .5s;
+    
+}
+.rocks2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 80%;
+    right: 30%;
+    background-image: url('img/pngwing.com.png');
+    transform: scaleX(1);
+    transform: rotate(50deg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 0;
+    opacity: 1;
+    transition: .5s;
+    transition-delay: .2s;
     
 }
 

@@ -31,6 +31,8 @@ function setSlider (){
 
     rockPosition = active * rockDistance;
     document.querySelector('.rocks').style.transform = `translateX(${rockPosition}px) translateY(${rockPosition}px)`;
+    document.querySelector('.rocks2').style.transform = `rotate(50deg) scaleX(1) translateX(${rockPosition}px) translateY(${rockPosition}px)`;
+
 
 }
 
