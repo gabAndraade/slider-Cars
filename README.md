@@ -14,7 +14,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **Design Responsivo**: Design responsivo para garantir que o layout funcione em todos os dispositivos.
 
 
-![image](https://github.com/user-attachments/assets/d00ae63c-c396-4bdf-b039-a018267ad8c2)
+![image](https://github.com/user-attachments/assets/1d65da30-1f8f-4e90-b4bb-e7afc9e0d637)
 
 
 ## Funcionalidades
